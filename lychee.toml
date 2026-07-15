@@ -1,0 +1,9 @@
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+timeout = 45
+max_retries = 3
+retry_wait_time = 2
+max_concurrency = 8
+no_progress = true
+accept = ["100..=103", "200..=299", "403", "429"]
+accept_timeouts = true
+exclude = ['mbc\.cyfrowemazowsze\.pl']

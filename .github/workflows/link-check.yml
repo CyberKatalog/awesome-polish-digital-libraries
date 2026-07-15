@@ -18,5 +18,5 @@ jobs:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
       - uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8
         with:
-          args: --no-progress --timeout 45 --max-retries 3 --accept 100..=103,200..=299,429 --exclude mbc.cyfrowemazowsze.pl '**/*.md'
+          args: --config lychee.toml '**/*.md'
           fail: true
