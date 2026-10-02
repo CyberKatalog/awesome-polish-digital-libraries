@@ -16,6 +16,7 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 - [Polish diaspora](#polish-diaspora)
 - [Archives](#archives)
 - [Digital press](#digital-press)
+- [Audiovisual and museum collections](#audiovisual-and-museum-collections)
 - [For integrators](#for-integrators)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,19 +33,29 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Regional digital libraries
 
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
+- [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - digital library of the Provincial Public Library in Lublin with collections of the Lublin region.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
+- [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - Elbląg Digital Library, run by the Cyprian Norwid Library in Elbląg.
 - [Kujawsko-Pomorska Biblioteka Cyfrowa](https://kpbc.umk.pl) - Kuyavian-Pomeranian Digital Library with regional, educational and heritage collections, run by the University Library in Toruń.
 - [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - Lesser Poland Digital Library with collections of the region, run by the Provincial Public Library in Kraków.
 - [Mazowiecka Biblioteka Cyfrowa](https://mbc.cyfrowemazowsze.pl) - Masovian Digital Library with Varsaviana, Masoviana, archival records and regional periodicals.
+- [Opolska Biblioteka Cyfrowa](https://obc.opole.pl) - Opole Digital Library, run by the Provincial Public Library in Opole.
 - [Podkarpacka Biblioteka Cyfrowa](https://pbc.rzeszow.pl) - Subcarpathian Digital Library, run by the Provincial and Municipal Public Library in Rzeszów.
 - [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - Podlasie Digital Library with borderland, cartographic and regional collections, coordinated by the Jerzy Giedroyc University Library in Białystok.
 - [Pomorska Biblioteka Cyfrowa](https://pbc.gda.pl) - Pomeranian Digital Library of institutions from the Gdańsk region, with the Gdańsk University of Technology as the lead partner.
 - [Śląska Biblioteka Cyfrowa](https://sbc.org.pl) - Silesian Digital Library with the digitised heritage of Silesia and neighbouring lands. Dozens of institutions contribute to it, coordinated by the Silesian Library in Katowice.
+- [Świętokrzyska Biblioteka Cyfrowa](https://sbc.wbp.kielce.pl) - Holy Cross Digital Library, run by the Witold Gombrowicz Provincial Public Library in Kielce.
+- [Warmińsko-Mazurska Biblioteka Cyfrowa](https://wmbc.olsztyn.pl) - Warmian-Masurian Digital Library, run by the Provincial Public Library in Olsztyn.
 - [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - Greater Poland Digital Library with collections of scientific and cultural institutions of the region, among them the Adam Mickiewicz University Library. One of the oldest Polish digital libraries, maintained by the Poznań Supercomputing and Networking Center.
 - [Zachodniopomorska Biblioteka Cyfrowa "Pomerania"](https://zbc.ksiaznica.szczecin.pl) - West Pomeranian Digital Library, run by the Książnica Pomorska library in Szczecin.
+- [Zielonogórska Biblioteka Cyfrowa](https://zbc.uz.zgora.pl) - Zielona Góra Digital Library, run jointly by the University of Zielona Góra Library and the Cyprian Norwid Provincial and Municipal Public Library.
 
 ## Academic and research libraries
 
+- [Biblioteka Cyfrowa Politechniki Warszawskiej](https://bcpw.bg.pw.edu.pl) - Warsaw University of Technology Digital Library, run by its Main Library.
+- [Biblioteka Cyfrowa Uniwersytetu Łódzkiego](https://bcul.lib.uni.lodz.pl) - University of Łódź Digital Library, run by the University Library in Łódź.
+- [Biblioteka Nauki](https://bibliotekanauki.pl) - Library of Science, an open platform with hundreds of thousands of full-text articles and books from Polish scholarly journals and publishers.
+- [CRISPA](https://crispa.uw.edu.pl) - digital collections of the University of Warsaw Library and museum collections of the university.
 - [Jagiellońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl) - Jagiellonian Digital Library with manuscripts, early printed books, periodicals and scholarly works from the Jagiellonian Library in Kraków.
 - [Repozytorium Cyfrowe Instytutów Naukowych (RCIN)](https://rcin.org.pl) - Digital Repository of Scientific Institutes with research output and historical collections of institutes, mostly of the Polish Academy of Sciences.
 
@@ -64,6 +75,11 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Digital press
 
 - [eGazety](https://www.egazety.pl) - commercial service selling digital editions of Polish newspapers and magazines, single issues and subscriptions.
+
+## Audiovisual and museum collections
+
+- [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - digital collections of the National Museum in Warsaw: paintings, prints, drawings and other museum objects.
+- [Ninateka](https://ninateka.pl) - online audiovisual archive with Polish films, documentaries, theatre and music recordings.
 
 ## For integrators
 
