@@ -2,7 +2,7 @@
 
 [English](README.md) | Polski
 
-> Lista polskich bibliotek cyfrowych, archiwów i agregatorów zdigitalizowanego dziedzictwa kultury.
+> Starannie dobrana lista polskich bibliotek cyfrowych, archiwów i agregatorów zdigitalizowanego dziedzictwa kultury.
 
 Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych książek, czasopism, map, fotografii i dokumentów. Większość jest dostępna bezpłatnie. Ta lista zbiera najważniejsze serwisy w jednym miejscu. Jest dla badaczy, genealogów, bibliotekarzy i twórców integracji. Serwisy płatne są oznaczone.
 
@@ -26,7 +26,7 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 
 ## Biblioteka Narodowa
 
-- [Academica](https://academica.edu.pl) - cyfrowa wypożyczalnia międzybiblioteczna Biblioteki Narodowej z milionami książek i czasopism naukowych. Publikacje w domenie publicznej i licencjonowane są otwarte dla wszystkich, chronione prawem autorskim tylko na terminalach w bibliotekach systemu.
+- [Academica](https://academica.edu.pl) - cyfrowa wypożyczalnia międzybiblioteczna Biblioteki Narodowej z milionami książek i czasopism naukowych. Publikacje w domenie publicznej i licencjonowane są otwarte dla wszystkich, chronione prawem autorskim tylko na terminalach w bibliotekach uczestniczących.
 - [Polona](https://polona.pl) - biblioteka cyfrowa Biblioteki Narodowej, jedna z największych w Polsce. Książki, czasopisma, grafiki, mapy, muzykalia, druki ulotne i rękopisy; duża część zbiorów w domenie publicznej.
 
 ## Regionalne biblioteki cyfrowe
@@ -40,7 +40,7 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 - [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - kolekcje kresowe, kartograficzne i regionalne, koordynowana przez Bibliotekę Uniwersytecką im. Jerzego Giedroycia w Białymstoku.
 - [Pomorska Biblioteka Cyfrowa](https://pbc.gda.pl) - zbiory instytucji Pomorza Gdańskiego; partnerem wiodącym jest Politechnika Gdańska.
 - [Śląska Biblioteka Cyfrowa](https://sbc.org.pl) - zdigitalizowane dziedzictwo kulturowe Śląska i ziem ościennych. Współtworzy ją kilkadziesiąt instytucji regionu, koordynuje Biblioteka Śląska w Katowicach.
-- [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - zbiory instytucji naukowych i kulturalnych Wielkopolski, m.in. Biblioteki Uniwersyteckiej UAM. Jedna z najstarszych polskich bibliotek cyfrowych, utrzymywana przez PCSS.
+- [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - zbiory instytucji naukowych i kulturalnych Wielkopolski, m.in. Biblioteki Uniwersyteckiej Uniwersytetu im. Adama Mickiewicza. Jedna z najstarszych polskich bibliotek cyfrowych, utrzymywana przez Poznańskie Centrum Superkomputerowo-Sieciowe.
 - [Zachodniopomorska Biblioteka Cyfrowa "Pomerania"](https://zbc.ksiaznica.szczecin.pl) - zbiory Pomorza Zachodniego, prowadzona przez Książnicę Pomorską w Szczecinie.
 
 ## Biblioteki akademickie i naukowe

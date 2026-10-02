@@ -34,7 +34,7 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
 - [Kujawsko-Pomorska Biblioteka Cyfrowa](https://kpbc.umk.pl) - Kuyavian-Pomeranian Digital Library with regional, educational and heritage collections, run by the University Library in Toruń.
-- [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - Lesser Poland Digital Library, run by the Provincial Public Library in Kraków.
+- [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - Lesser Poland Digital Library with collections of the region, run by the Provincial Public Library in Kraków.
 - [Mazowiecka Biblioteka Cyfrowa](https://mbc.cyfrowemazowsze.pl) - Masovian Digital Library with Varsaviana, Masoviana, archival records and regional periodicals.
 - [Podkarpacka Biblioteka Cyfrowa](https://pbc.rzeszow.pl) - Subcarpathian Digital Library, run by the Provincial and Municipal Public Library in Rzeszów.
 - [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - Podlasie Digital Library with borderland, cartographic and regional collections, coordinated by the Jerzy Giedroyc University Library in Białystok.
