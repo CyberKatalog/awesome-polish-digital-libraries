@@ -16,6 +16,7 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 - [Polonika](#polonika)
 - [Archiwa](#archiwa)
 - [Prasa cyfrowa](#prasa-cyfrowa)
+- [Zbiory audiowizualne i muzealne](#zbiory-audiowizualne-i-muzealne)
 - [Dla integratorów](#dla-integratorów)
 - [Współtworzenie](#współtworzenie)
 - [Licencja](#licencja)
@@ -32,19 +33,29 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 ## Regionalne biblioteki cyfrowe
 
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - zbiory historyczne i kulturalne Pomorza, prowadzona przez Miejską Bibliotekę Publiczną w Słupsku.
+- [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - biblioteka cyfrowa Wojewódzkiej Biblioteki Publicznej w Lublinie ze zbiorami regionu lubelskiego.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - rękopisy, publikacje historyczne, rozprawy doktorskie i czasopisma instytucji Dolnego Śląska, koordynowana przez Politechnikę Wrocławską.
+- [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - zbiory Elbląga i regionu, prowadzona przez Bibliotekę Elbląską im. Cypriana Norwida.
 - [Kujawsko-Pomorska Biblioteka Cyfrowa](https://kpbc.umk.pl) - kolekcje regionalne, edukacyjne i dziedzictwa kulturowego Kujaw i Pomorza, prowadzona przez Bibliotekę Uniwersytecką w Toruniu.
 - [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - zbiory regionu małopolskiego, prowadzona przez Wojewódzką Bibliotekę Publiczną w Krakowie.
 - [Mazowiecka Biblioteka Cyfrowa](https://mbc.cyfrowemazowsze.pl) - varsaviana, mazoviana, archiwalia i czasopisma regionu mazowieckiego.
+- [Opolska Biblioteka Cyfrowa](https://obc.opole.pl) - zbiory Opolszczyzny, prowadzona przez Wojewódzką Bibliotekę Publiczną w Opolu.
 - [Podkarpacka Biblioteka Cyfrowa](https://pbc.rzeszow.pl) - zbiory regionu podkarpackiego, prowadzona przez Wojewódzką i Miejską Bibliotekę Publiczną w Rzeszowie.
 - [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - kolekcje kresowe, kartograficzne i regionalne, koordynowana przez Bibliotekę Uniwersytecką im. Jerzego Giedroycia w Białymstoku.
 - [Pomorska Biblioteka Cyfrowa](https://pbc.gda.pl) - zbiory instytucji Pomorza Gdańskiego; partnerem wiodącym jest Politechnika Gdańska.
 - [Śląska Biblioteka Cyfrowa](https://sbc.org.pl) - zdigitalizowane dziedzictwo kulturowe Śląska i ziem ościennych. Współtworzy ją kilkadziesiąt instytucji regionu, koordynuje Biblioteka Śląska w Katowicach.
+- [Świętokrzyska Biblioteka Cyfrowa](https://sbc.wbp.kielce.pl) - zbiory regionu świętokrzyskiego, prowadzona przez Wojewódzką Bibliotekę Publiczną im. Witolda Gombrowicza w Kielcach.
+- [Warmińsko-Mazurska Biblioteka Cyfrowa](https://wmbc.olsztyn.pl) - zbiory Warmii i Mazur, prowadzona przez Wojewódzką Bibliotekę Publiczną w Olsztynie.
 - [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - zbiory instytucji naukowych i kulturalnych Wielkopolski, m.in. Biblioteki Uniwersyteckiej Uniwersytetu im. Adama Mickiewicza. Jedna z najstarszych polskich bibliotek cyfrowych, utrzymywana przez Poznańskie Centrum Superkomputerowo-Sieciowe.
 - [Zachodniopomorska Biblioteka Cyfrowa "Pomerania"](https://zbc.ksiaznica.szczecin.pl) - zbiory Pomorza Zachodniego, prowadzona przez Książnicę Pomorską w Szczecinie.
+- [Zielonogórska Biblioteka Cyfrowa](https://zbc.uz.zgora.pl) - zbiory Ziemi Lubuskiej, prowadzona wspólnie przez Bibliotekę Uniwersytecką Uniwersytetu Zielonogórskiego i Wojewódzką i Miejską Bibliotekę Publiczną im. Cypriana Norwida.
 
 ## Biblioteki akademickie i naukowe
 
+- [Biblioteka Cyfrowa Politechniki Warszawskiej](https://bcpw.bg.pw.edu.pl) - zbiory cyfrowe prowadzone przez Bibliotekę Główną Politechniki Warszawskiej.
+- [Biblioteka Cyfrowa Uniwersytetu Łódzkiego](https://bcul.lib.uni.lodz.pl) - zbiory cyfrowe prowadzone przez Bibliotekę Uniwersytecką w Łodzi.
+- [Biblioteka Nauki](https://bibliotekanauki.pl) - otwarta platforma z setkami tysięcy pełnotekstowych artykułów i książek z polskich czasopism i wydawnictw naukowych.
+- [CRISPA](https://crispa.uw.edu.pl) - zbiory cyfrowe Biblioteki Uniwersyteckiej w Warszawie i zbiory muzealne Uniwersytetu Warszawskiego.
 - [Jagiellońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl) - rękopisy, starodruki, czasopisma i prace naukowe ze zbiorów Biblioteki Jagiellońskiej w Krakowie.
 - [Repozytorium Cyfrowe Instytutów Naukowych (RCIN)](https://rcin.org.pl) - dorobek naukowy i zbiory historyczne instytutów badawczych, głównie Polskiej Akademii Nauk.
 
@@ -64,6 +75,11 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 ## Prasa cyfrowa
 
 - [eGazety](https://www.egazety.pl) - komercyjny serwis z cyfrowymi wydaniami polskich gazet i czasopism, płatny za pojedyncze wydania lub w prenumeracie.
+
+## Zbiory audiowizualne i muzealne
+
+- [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - zbiory cyfrowe Muzeum Narodowego w Warszawie: malarstwo, grafika, rysunek i inne obiekty muzealne.
+- [Ninateka](https://ninateka.pl) - internetowe archiwum audiowizualne z polskimi filmami, dokumentami, spektaklami i nagraniami muzycznymi.
 
 ## Dla integratorów
 
