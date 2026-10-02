@@ -1,61 +1,80 @@
-# Awesome Polskie Biblioteki Cyfrowe [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Polish Digital Libraries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Wyselekcjonowana lista polskich bibliotek cyfrowych, archiwów i agregatorów zdigitalizowanego dziedzictwa kultury.
+English | [Polski](README.pl.md)
 
-Miliony zdigitalizowanych książek, czasopism, map, fotografii i dokumentów są dostępne online bezpłatnie. Ta lista zbiera najważniejsze polskie serwisy w jednym miejscu - dla badaczy, genealogów, bibliotekarzy i twórców integracji. Serwisy płatne są wyraźnie oznaczone.
+> A curated list of Polish digital libraries, archives and aggregators of digitised cultural heritage.
 
-## Spis treści
+Polish libraries and archives publish millions of digitised books, newspapers, maps, photographs and records online, most of them free of charge. This list gathers the main services in one place. It is meant for researchers, genealogists, librarians and developers building integrations. Paid services are marked as such.
 
-- [Agregatory](#agregatory)
-- [Biblioteka Narodowa](#biblioteka-narodowa)
-- [Regionalne biblioteki cyfrowe](#regionalne-biblioteki-cyfrowe)
-- [Polonika](#polonika)
-- [Archiwa](#archiwa)
-- [Prasa cyfrowa](#prasa-cyfrowa)
-- [Dla integratorów](#dla-integratorów)
-- [Współtworzenie](#współtworzenie)
-- [Licencja](#licencja)
+## Contents
 
-## Agregatory
+- [Aggregators](#aggregators)
+- [National Library of Poland](#national-library-of-poland)
+- [Regional digital libraries](#regional-digital-libraries)
+- [Academic and research libraries](#academic-and-research-libraries)
+- [Literature](#literature)
+- [Polish diaspora](#polish-diaspora)
+- [Archives](#archives)
+- [Digital press](#digital-press)
+- [For integrators](#for-integrators)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - wspólna wyszukiwarka zasobów polskich bibliotek cyfrowych, muzeów, archiwów i repozytoriów, prowadzona przez Poznańskie Centrum Superkomputerowo-Sieciowe w sieci PIONIER. Agreguje miliony obiektów i przekazuje metadane do Europeany.
+## Aggregators
 
-## Biblioteka Narodowa
+- [Federacja Bibliotek Cyfrowych (FBC)](https://fbc.pionier.net.pl) - Digital Libraries Federation, a single search across Polish digital libraries, museums, archives and repositories. Run by the Poznań Supercomputing and Networking Center in the PIONIER network, it aggregates millions of records and passes metadata on to Europeana.
 
-- [Polona](https://polona.pl) - biblioteka cyfrowa Biblioteki Narodowej, jedna z największych w Polsce. Książki, czasopisma, grafiki, mapy, muzykalia, druki ulotne i rękopisy; duża część zbiorów w domenie publicznej.
+## National Library of Poland
 
-## Regionalne biblioteki cyfrowe
+- [Academica](https://academica.edu.pl) - digital interlibrary loan of the National Library of Poland with millions of scholarly books and journals. Public domain and licensed items are open to everyone, copyrighted ones only on terminals in member libraries.
+- [Polona](https://polona.pl) - digital library of the National Library of Poland and one of the largest in the country. Books, periodicals, prints, maps, music, ephemera and manuscripts, much of it in the public domain.
 
-- [Bałtycka Biblioteka Cyfrowa (BBC)](https://bibliotekacyfrowa.eu) - zbiory historyczne i kulturalne Pomorza, prowadzona przez Miejską Bibliotekę Publiczną w Słupsku.
-- [Dolnośląska Biblioteka Cyfrowa (DBC)](https://www.dbc.wroc.pl) - rękopisy, publikacje historyczne, rozprawy doktorskie i czasopisma instytucji Dolnego Śląska, koordynowana przez Politechnikę Wrocławską.
-- [Kujawsko-Pomorska Biblioteka Cyfrowa (KPBC)](https://kpbc.umk.pl) - kolekcje regionalne, edukacyjne i dziedzictwa kulturowego Kujaw i Pomorza, prowadzona przez Bibliotekę Uniwersytecką w Toruniu.
-- [Mazowiecka Biblioteka Cyfrowa (MBC)](https://mbc.cyfrowemazowsze.pl) - varsaviana, mazoviana, archiwalia i czasopisma regionu mazowieckiego.
-- [Śląska Biblioteka Cyfrowa (ŚBC)](https://sbc.org.pl) - zdigitalizowane dziedzictwo kulturowe Śląska i ziem ościennych, współtworzone przez kilkadziesiąt instytucji regionu w koordynacji Biblioteki Śląskiej w Katowicach.
-- [Wielkopolska Biblioteka Cyfrowa (WBC)](https://wbc.poznan.pl) - zbiory instytucji naukowych i kulturalnych Wielkopolski, m.in. Biblioteki Uniwersyteckiej UAM; jedna z najstarszych polskich bibliotek cyfrowych, utrzymywana przez PCSS.
+## Regional digital libraries
 
-## Polonika
+- [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
+- [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
+- [Kujawsko-Pomorska Biblioteka Cyfrowa](https://kpbc.umk.pl) - Kuyavian-Pomeranian Digital Library with regional, educational and heritage collections, run by the University Library in Toruń.
+- [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - Lesser Poland Digital Library with collections of the region, run by the Provincial Public Library in Kraków.
+- [Mazowiecka Biblioteka Cyfrowa](https://mbc.cyfrowemazowsze.pl) - Masovian Digital Library with Varsaviana, Masoviana, archival records and regional periodicals.
+- [Podkarpacka Biblioteka Cyfrowa](https://pbc.rzeszow.pl) - Subcarpathian Digital Library, run by the Provincial and Municipal Public Library in Rzeszów.
+- [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - Podlasie Digital Library with borderland, cartographic and regional collections, coordinated by the Jerzy Giedroyc University Library in Białystok.
+- [Pomorska Biblioteka Cyfrowa](https://pbc.gda.pl) - Pomeranian Digital Library of institutions from the Gdańsk region, with the Gdańsk University of Technology as the lead partner.
+- [Śląska Biblioteka Cyfrowa](https://sbc.org.pl) - Silesian Digital Library with the digitised heritage of Silesia and neighbouring lands. Dozens of institutions contribute to it, coordinated by the Silesian Library in Katowice.
+- [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - Greater Poland Digital Library with collections of scientific and cultural institutions of the region, among them the Adam Mickiewicz University Library. One of the oldest Polish digital libraries, maintained by the Poznań Supercomputing and Networking Center.
+- [Zachodniopomorska Biblioteka Cyfrowa "Pomerania"](https://zbc.ksiaznica.szczecin.pl) - West Pomeranian Digital Library, run by the Książnica Pomorska library in Szczecin.
 
-- [Polonijna Biblioteka Cyfrowa (PBC)](https://pbc.uw.edu.pl) - cyfrowe archiwum dorobku polskiej diaspory: prasa polonijna, książki i archiwalia, tworzone na Uniwersytecie Warszawskim.
+## Academic and research libraries
 
-## Archiwa
+- [Jagiellońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl) - Jagiellonian Digital Library with manuscripts, early printed books, periodicals and scholarly works from the Jagiellonian Library in Kraków.
+- [Repozytorium Cyfrowe Instytutów Naukowych (RCIN)](https://rcin.org.pl) - Digital Repository of Scientific Institutes with research output and historical collections of institutes, mostly of the Polish Academy of Sciences.
 
-- [Narodowe Archiwum Cyfrowe (NAC)](https://nac.gov.pl) - archiwum państwowe wyspecjalizowane w digitalizacji i udostępnianiu materiałów audiowizualnych: fotografii, nagrań dźwiękowych i filmów.
-- [Szukaj w Archiwach](https://www.szukajwarchiwach.gov.pl) - centralny portal przeszukiwania zasobów ponad stu polskich archiwów państwowych i instytucji, z milionami zdigitalizowanych skanów; administrowany przez Narodowe Archiwum Cyfrowe.
+## Literature
 
-## Prasa cyfrowa
+- [Wolne Lektury](https://wolnelektury.pl) - free online library of e-books and audiobooks, mostly school readings and public domain classics, published under free licences.
 
-- [eGazety](https://www.egazety.pl) - komercyjny serwis z cyfrowymi wydaniami polskich gazet i czasopism; wymaga płatnej prenumeraty.
+## Polish diaspora
 
-## Dla integratorów
+- [Polonijna Biblioteka Cyfrowa](https://pbc.uw.edu.pl) - Polish Diaspora Digital Library with émigré press, books and archival records, developed at the Faculty of Journalism, Information and Book Studies of the University of Warsaw.
 
-Regionalne biblioteki cyfrowe z tej listy działają na oprogramowaniu dLibra, które standardowo udostępnia metadane przez protokół OAI-PMH. PBC deklaruje zgodność z OAI-PMH 2.0. FBC agreguje metadane z wielu źródeł i jest naturalnym punktem startowym do masowego pobierania opisów zamiast odpytywania każdego serwisu osobno.
+## Archives
 
-## Współtworzenie
+- [Narodowe Archiwum Cyfrowe (NAC)](https://nac.gov.pl) - National Digital Archives, the state archive that digitises and publishes audiovisual material: photographs, sound recordings and films.
+- [Szukaj w Archiwach](https://www.szukajwarchiwach.gov.pl) - central portal for the holdings of Polish state archives and other institutions, with millions of digitised scans and an index of parish and civil registers. Maintained by the National Digital Archives.
 
-Znasz serwis, którego tu brakuje? Zajrzyj do [CONTRIBUTING.md](CONTRIBUTING.md) i otwórz pull request.
+## Digital press
 
-## Licencja
+- [eGazety](https://www.egazety.pl) - commercial service selling digital editions of Polish newspapers and magazines, single issues and subscriptions.
+
+## For integrators
+
+Most regional digital libraries on this list run on dLibra, which exposes metadata over OAI-PMH by default. The Polish Diaspora Digital Library declares OAI-PMH 2.0 compliance. FBC aggregates metadata from many sources, so it is a good starting point for bulk harvesting instead of querying each service separately.
+
+## Contributing
+
+Know a service that is missing? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request.
+
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Zawartość listy jest dostępna na licencji [CC0 1.0](LICENSE).
+The content of this list is available under [CC0 1.0](LICENSE).

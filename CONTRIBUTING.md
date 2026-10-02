@@ -1,41 +1,47 @@
-# Współtworzenie
+# Contributing
 
-Dzięki za chęć rozbudowy listy. Poniżej krótkie zasady zgłaszania wpisów.
+Thank you for every new entry. The rules are short.
 
-## Kryteria przyjęcia wpisu
+## Acceptance criteria
 
-- Serwis jest polski lub posiada polskie zbiory cyfrowe.
-- Serwis jest publicznie dostępny online.
-- Serwis jest aktywnie utrzymywany.
-- Link prowadzi bezpośrednio przez https do samego serwisu, nie do pośrednika.
+- The service is Polish or holds Polish digital collections.
+- The service is publicly available online.
+- The service is actively maintained.
+- The link uses https and leads directly to the service, not to an intermediary.
 
-## Format wpisu
+## Two language versions
 
-Każdy wpis ma dokładnie taką postać:
+The list has an English version in [README.md](README.md) and a Polish one in [README.pl.md](README.pl.md). Add every entry to both files, in the same section and at the same position.
+
+## Entry format
+
+Every entry looks exactly like this:
 
 ```
-- [Nazwa](https://adres) - opis.
+- [Name](https://address) - description.
 ```
 
-- Opis to 1-2 zdania po polsku, zakończone kropką.
-- Wpis trafia do właściwej sekcji tematycznej.
-- Wpisy w sekcji są posortowane alfabetycznie.
-- Jeden serwis na jeden pull request.
+- The name is the original Polish name of the service, in both language versions.
+- The description is 1-2 sentences ending with a full stop: in English in README.md, in Polish in README.pl.md.
+- The entry goes into the right section.
+- Entries within a section are sorted alphabetically by name.
+- One service per pull request.
 
-## Styl
+## Style
 
-- Wyłącznie zwykły myślnik `-`, bez myślników typograficznych.
-- Bez komentarzy HTML.
-- Bez pogrubień i innych ozdobników w opisach.
+- Only the plain hyphen `-`, no typographic dashes.
+- Only straight quotes `"`.
+- No HTML comments.
+- No bold or other decoration in descriptions.
 
-## Proces
+## Process
 
-1. Zrób fork repozytorium.
-2. Utwórz osobną gałąź na swój wpis.
-3. Otwórz pull request.
-4. Tytuł pull requesta po angielsku w konwencji Conventional Commits, np. `feat: add Academica`. Opis pull requesta może być po polsku.
-5. CI sprawdzające linki (link-check) musi przejść, zanim wpis zostanie scalony.
+1. Fork the repository.
+2. Create a separate branch for your entry.
+3. Open a pull request.
+4. Write the pull request title and description in English. The title follows Conventional Commits, for example `feat: add Academica`.
+5. The link-check CI must pass before the entry is merged.
 
-## Martwe linki
+## Dead links
 
-Jeśli znajdziesz nieaktywny link, zgłoś to jako issue albo otwórz pull request z poprawką lub usunięciem wpisu.
+If you find a dead link, report it as an issue or open a pull request that fixes or removes the entry.

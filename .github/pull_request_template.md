@@ -1,11 +1,12 @@
-## Co dodajesz
+## What you are adding
 
-Krótko opisz, jaki serwis dodajesz i dlaczego pasuje do listy.
+Briefly describe the service you are adding and why it fits the list.
 
 ## Checklist
 
-- [ ] wpis w formacie `- [Nazwa](url) - opis` zakończony kropką
-- [ ] link https działa i prowadzi bezpośrednio do serwisu
-- [ ] wpis we właściwej sekcji, alfabetycznie
-- [ ] opis po polsku, tylko zwykły myślnik `-`
-- [ ] jeden serwis na jeden pull request
+- [ ] entry in the format `- [Name](url) - description.` ending with a full stop
+- [ ] the https link works and leads directly to the service
+- [ ] entry in the right section, in alphabetical order
+- [ ] entry in README.md (English description) and in README.pl.md (Polish description)
+- [ ] only the plain hyphen `-` and straight quotes
+- [ ] one service per pull request
