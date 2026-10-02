@@ -71,7 +71,7 @@ Większość regionalnych bibliotek cyfrowych z tej listy działa na oprogramowa
 
 ## Współtworzenie
 
-Znasz serwis, którego tu brakuje? Zajrzyj do [CONTRIBUTING.md](CONTRIBUTING.md) i otwórz pull request.
+Znasz serwis, którego tu brakuje? Zajrzyj do [CONTRIBUTING.md](CONTRIBUTING.md) (po angielsku) i otwórz pull request.
 
 ## Licencja
 
