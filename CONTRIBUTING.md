@@ -1,6 +1,6 @@
 # Współtworzenie
 
-Dzięki za chęć rozbudowy listy. Poniżej krótkie zasady zgłaszania wpisów.
+Dziękujemy za każdy nowy wpis. Zasady są krótkie.
 
 ## Kryteria przyjęcia wpisu
 
@@ -8,6 +8,10 @@ Dzięki za chęć rozbudowy listy. Poniżej krótkie zasady zgłaszania wpisów.
 - Serwis jest publicznie dostępny online.
 - Serwis jest aktywnie utrzymywany.
 - Link prowadzi bezpośrednio przez https do samego serwisu, nie do pośrednika.
+
+## Dwie wersje językowe
+
+Lista ma wersję angielską w [README.md](README.md) i polską w [README.pl.md](README.pl.md). Każdy wpis dodajesz w obu plikach, w tej samej sekcji i na tej samej pozycji.
 
 ## Format wpisu
 
@@ -17,14 +21,16 @@ Każdy wpis ma dokładnie taką postać:
 - [Nazwa](https://adres) - opis.
 ```
 
-- Opis to 1-2 zdania po polsku, zakończone kropką.
+- Nazwa to oryginalna polska nazwa serwisu, w obu wersjach językowych.
+- Opis to 1-2 zdania zakończone kropką: po angielsku w README.md, po polsku w README.pl.md.
 - Wpis trafia do właściwej sekcji tematycznej.
-- Wpisy w sekcji są posortowane alfabetycznie.
+- Wpisy w sekcji są posortowane alfabetycznie według nazwy.
 - Jeden serwis na jeden pull request.
 
 ## Styl
 
 - Wyłącznie zwykły myślnik `-`, bez myślników typograficznych.
+- Wyłącznie proste cudzysłowy `"`.
 - Bez komentarzy HTML.
 - Bez pogrubień i innych ozdobników w opisach.
 
