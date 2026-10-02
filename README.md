@@ -35,20 +35,20 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
 - [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - digital library of the Provincial Public Library in Lublin with collections of the Lublin region.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
-- [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - Elbląg Digital Library, run by the Cyprian Norwid Library in Elbląg.
+- [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - Elbląg Digital Library with collections of Elbląg and the region, run by the Cyprian Norwid Library in Elbląg.
 - [Kujawsko-Pomorska Biblioteka Cyfrowa](https://kpbc.umk.pl) - Kuyavian-Pomeranian Digital Library with regional, educational and heritage collections, run by the University Library in Toruń.
 - [Małopolska Biblioteka Cyfrowa](https://mbc.malopolska.pl) - Lesser Poland Digital Library with collections of the region, run by the Provincial Public Library in Kraków.
 - [Mazowiecka Biblioteka Cyfrowa](https://mbc.cyfrowemazowsze.pl) - Masovian Digital Library with Varsaviana, Masoviana, archival records and regional periodicals.
-- [Opolska Biblioteka Cyfrowa](https://obc.opole.pl) - Opole Digital Library, run by the Provincial Public Library in Opole.
+- [Opolska Biblioteka Cyfrowa](https://obc.opole.pl) - Opole Digital Library with collections of the Opole region, run by the Provincial Public Library in Opole.
 - [Podkarpacka Biblioteka Cyfrowa](https://pbc.rzeszow.pl) - Subcarpathian Digital Library, run by the Provincial and Municipal Public Library in Rzeszów.
 - [Podlaska Biblioteka Cyfrowa](https://pbc.biaman.pl) - Podlasie Digital Library with borderland, cartographic and regional collections, coordinated by the Jerzy Giedroyc University Library in Białystok.
 - [Pomorska Biblioteka Cyfrowa](https://pbc.gda.pl) - Pomeranian Digital Library of institutions from the Gdańsk region, with the Gdańsk University of Technology as the lead partner.
 - [Śląska Biblioteka Cyfrowa](https://sbc.org.pl) - Silesian Digital Library with the digitised heritage of Silesia and neighbouring lands. Dozens of institutions contribute to it, coordinated by the Silesian Library in Katowice.
-- [Świętokrzyska Biblioteka Cyfrowa](https://sbc.wbp.kielce.pl) - Holy Cross Digital Library, run by the Witold Gombrowicz Provincial Public Library in Kielce.
-- [Warmińsko-Mazurska Biblioteka Cyfrowa](https://wmbc.olsztyn.pl) - Warmian-Masurian Digital Library, run by the Provincial Public Library in Olsztyn.
+- [Świętokrzyska Biblioteka Cyfrowa](https://sbc.wbp.kielce.pl) - Holy Cross Digital Library with collections of the Świętokrzyskie region, run by the Witold Gombrowicz Provincial Public Library in Kielce.
+- [Warmińsko-Mazurska Biblioteka Cyfrowa](https://wmbc.olsztyn.pl) - Warmian-Masurian Digital Library with collections of Warmia and Masuria, run by the Provincial Public Library in Olsztyn.
 - [Wielkopolska Biblioteka Cyfrowa](https://wbc.poznan.pl) - Greater Poland Digital Library with collections of scientific and cultural institutions of the region, among them the Adam Mickiewicz University Library. One of the oldest Polish digital libraries, maintained by the Poznań Supercomputing and Networking Center.
 - [Zachodniopomorska Biblioteka Cyfrowa "Pomerania"](https://zbc.ksiaznica.szczecin.pl) - West Pomeranian Digital Library, run by the Książnica Pomorska library in Szczecin.
-- [Zielonogórska Biblioteka Cyfrowa](https://zbc.uz.zgora.pl) - Zielona Góra Digital Library, run jointly by the University of Zielona Góra Library and the Cyprian Norwid Provincial and Municipal Public Library.
+- [Zielonogórska Biblioteka Cyfrowa](https://zbc.uz.zgora.pl) - Zielona Góra Digital Library with collections of the Lubusz Land, run jointly by the University of Zielona Góra Library and the Cyprian Norwid Provincial and Municipal Public Library.
 
 ## Academic and research libraries
 
