@@ -33,6 +33,7 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Regional digital libraries
 
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
+- [Biblioteka Cyfrowa Regionalia Ziemi Łódzkiej](https://bc.wbp.lodz.pl) - digital library of the Łódź region, run by the Provincial Public Library in Łódź, with regional materials, books, periodicals and collections of the Nieborów and Arkadia Museum.
 - [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - digital library of the Provincial Public Library in Lublin with collections of the Lublin region.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
 - [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - Elbląg Digital Library with collections of Elbląg and the region, run by the Cyprian Norwid Library in Elbląg.
@@ -52,8 +53,10 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 
 ## Academic and research libraries
 
+- [Biblioteka Cyfrowa KUL](https://dlibra.kul.pl) - digital library of the John Paul II Catholic University of Lublin with manuscripts, incunabula, old prints, iconographic and cartographic collections.
 - [Biblioteka Cyfrowa Politechniki Warszawskiej](https://bcpw.bg.pw.edu.pl) - Warsaw University of Technology Digital Library, run by its Main Library.
 - [Biblioteka Cyfrowa Uniwersytetu Łódzkiego](https://bcul.lib.uni.lodz.pl) - University of Łódź Digital Library, run by the University Library in Łódź.
+- [Biblioteka Cyfrowa Uniwersytetu Wrocławskiego](https://bibliotekacyfrowa.pl) - University of Wrocław Digital Library, run by the University Library in Wrocław.
 - [Biblioteka Nauki](https://bibliotekanauki.pl) - Library of Science, an open platform with hundreds of thousands of full-text articles and books from Polish scholarly journals and publishers.
 - [CRISPA](https://crispa.uw.edu.pl) - digital collections of the University of Warsaw Library and museum collections of the university.
 - [Jagiellońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl) - Jagiellonian Digital Library with manuscripts, early printed books, periodicals and scholarly works from the Jagiellonian Library in Kraków.
@@ -79,7 +82,9 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Audiovisual and museum collections
 
 - [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - digital collections of the National Museum in Warsaw: paintings, prints, drawings and other museum objects.
+- [Fototeka](https://fototeka.fn.org.pl) - film stills, set photographs and portraits of filmmakers from the collections of the National Film Archive - Audiovisual Institute, over 300,000 photographs from about 3,200 Polish films.
 - [Ninateka](https://ninateka.pl) - online audiovisual archive with Polish films, documentaries, theatre and music recordings.
+- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - digital collections of the National Museum in Kraków: an object catalogue, highlights, thematic galleries, essays and a digital library.
 
 ## For integrators
 
