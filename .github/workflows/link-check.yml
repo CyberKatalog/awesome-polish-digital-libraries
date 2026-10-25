@@ -16,6 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
+      - name: Both READMEs link the same URLs
+        run: diff <(grep -oE 'https?://[^) ]+' README.md | sort -u) <(grep -oE 'https?://[^) ]+' README.pl.md | sort -u)
       - uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8
         with:
           args: --config lychee.toml '**/*.md'
