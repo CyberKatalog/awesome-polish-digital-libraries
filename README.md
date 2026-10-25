@@ -33,7 +33,7 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Regional digital libraries
 
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - Baltic Digital Library with historical and cultural collections of Pomerania, run by the Municipal Public Library in Słupsk.
-- [Biblioteka Cyfrowa Regionalia Ziemi Łódzkiej](https://bc.wbp.lodz.pl) - digital library of the Łódź region, run by the Provincial Public Library in Łódź, with regional materials, books, periodicals and collections of the Nieborów and Arkadia Museum.
+- [Biblioteka Cyfrowa Regionalia Ziemi Łódzkiej](https://bc.wbp.lodz.pl) - digital library of the Łódź region, run by the Provincial Public Library in Łódź, with regional materials, books, periodicals and collections of the Museum in Nieborów and Arkadia.
 - [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - digital library of the Provincial Public Library in Lublin with collections of the Lublin region.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - Lower Silesian Digital Library with manuscripts, historical publications, doctoral theses and periodicals from institutions of Lower Silesia, coordinated by the Wrocław University of Science and Technology.
 - [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - Elbląg Digital Library with collections of Elbląg and the region, run by the Cyprian Norwid Library in Elbląg.
@@ -82,9 +82,9 @@ Polish libraries and archives publish millions of digitised books, newspapers, m
 ## Audiovisual and museum collections
 
 - [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - digital collections of the National Museum in Warsaw: paintings, prints, drawings and other museum objects.
-- [Fototeka](https://fototeka.fn.org.pl) - film stills, set photographs and portraits of filmmakers from the collections of the National Film Archive - Audiovisual Institute, over 300,000 photographs from about 3,200 Polish films.
+- [Fototeka](https://fototeka.fn.org.pl) - film stills, set photographs and portraits of filmmakers from the collections of the National Film Archive - Audiovisual Institute, over 300,000 photographs from 3,200 Polish films.
 - [Ninateka](https://ninateka.pl) - online audiovisual archive with Polish films, documentaries, theatre and music recordings.
-- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - digital collections of the National Museum in Kraków: an object catalogue, highlights, thematic galleries, essays and a digital library.
+- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - digital collections of the National Museum in Kraków: an object catalogue, masterpieces, thematic galleries, essays and a library.
 
 ## For integrators
 

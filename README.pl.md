@@ -82,9 +82,9 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 ## Zbiory audiowizualne i muzealne
 
 - [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - zbiory cyfrowe Muzeum Narodowego w Warszawie: malarstwo, grafika, rysunek i inne obiekty muzealne.
-- [Fototeka](https://fototeka.fn.org.pl) - fotosy, zdjęcia z planów i portrety twórców ze zbiorów Filmoteki Narodowej - Instytutu Audiowizualnego, ponad 300 tys. zdjęć z około 3200 polskich filmów.
+- [Fototeka](https://fototeka.fn.org.pl) - fotosy, zdjęcia z planów i portrety twórców ze zbiorów Filmoteki Narodowej - Instytutu Audiowizualnego, ponad 300 tys. zdjęć do 3200 polskich filmów.
 - [Ninateka](https://ninateka.pl) - internetowe archiwum audiowizualne z polskimi filmami, dokumentami, spektaklami i nagraniami muzycznymi.
-- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - zbiory cyfrowe Muzeum Narodowego w Krakowie: katalog obiektów, arcydzieła, galerie tematyczne, eseje i biblioteka cyfrowa.
+- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - zbiory cyfrowe Muzeum Narodowego w Krakowie: katalog obiektów, arcydzieła, galerie tematyczne, eseje i biblioteka.
 
 ## Dla integratorów
 
