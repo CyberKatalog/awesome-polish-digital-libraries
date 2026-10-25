@@ -33,6 +33,7 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 ## Regionalne biblioteki cyfrowe
 
 - [Bałtycka Biblioteka Cyfrowa](https://bibliotekacyfrowa.eu) - zbiory historyczne i kulturalne Pomorza, prowadzona przez Miejską Bibliotekę Publiczną w Słupsku.
+- [Biblioteka Cyfrowa Regionalia Ziemi Łódzkiej](https://bc.wbp.lodz.pl) - biblioteka cyfrowa regionu łódzkiego prowadzona przez Wojewódzką Bibliotekę Publiczną w Łodzi, z materiałami regionalnymi, książkami, czasopismami i zbiorami Muzeum w Nieborowie i Arkadii.
 - [Biblioteka Cyfrowa WBP w Lublinie](https://bc.wbp.lublin.pl) - biblioteka cyfrowa Wojewódzkiej Biblioteki Publicznej w Lublinie ze zbiorami regionu lubelskiego.
 - [Dolnośląska Biblioteka Cyfrowa](https://www.dbc.wroc.pl) - rękopisy, publikacje historyczne, rozprawy doktorskie i czasopisma instytucji Dolnego Śląska, koordynowana przez Politechnikę Wrocławską.
 - [Elbląska Biblioteka Cyfrowa](https://dlibra.bibliotekaelblaska.pl) - zbiory Elbląga i regionu, prowadzona przez Bibliotekę Elbląską im. Cypriana Norwida.
@@ -52,8 +53,10 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 
 ## Biblioteki akademickie i naukowe
 
+- [Biblioteka Cyfrowa KUL](https://dlibra.kul.pl) - biblioteka cyfrowa Katolickiego Uniwersytetu Lubelskiego Jana Pawła II z rękopisami, inkunabułami, starodrukami oraz zbiorami ikonograficznymi i kartograficznymi.
 - [Biblioteka Cyfrowa Politechniki Warszawskiej](https://bcpw.bg.pw.edu.pl) - zbiory cyfrowe prowadzone przez Bibliotekę Główną Politechniki Warszawskiej.
 - [Biblioteka Cyfrowa Uniwersytetu Łódzkiego](https://bcul.lib.uni.lodz.pl) - zbiory cyfrowe prowadzone przez Bibliotekę Uniwersytecką w Łodzi.
+- [Biblioteka Cyfrowa Uniwersytetu Wrocławskiego](https://bibliotekacyfrowa.pl) - zbiory cyfrowe tworzone przez Bibliotekę Uniwersytecką we Wrocławiu.
 - [Biblioteka Nauki](https://bibliotekanauki.pl) - otwarta platforma z setkami tysięcy pełnotekstowych artykułów i książek z polskich czasopism i wydawnictw naukowych.
 - [CRISPA](https://crispa.uw.edu.pl) - zbiory cyfrowe Biblioteki Uniwersyteckiej w Warszawie i zbiory muzealne Uniwersytetu Warszawskiego.
 - [Jagiellońska Biblioteka Cyfrowa](https://jbc.bj.uj.edu.pl) - rękopisy, starodruki, czasopisma i prace naukowe ze zbiorów Biblioteki Jagiellońskiej w Krakowie.
@@ -79,7 +82,9 @@ Polskie biblioteki i archiwa udostępniają online miliony zdigitalizowanych ksi
 ## Zbiory audiowizualne i muzealne
 
 - [Cyfrowe MNW](https://cyfrowe.mnw.art.pl) - zbiory cyfrowe Muzeum Narodowego w Warszawie: malarstwo, grafika, rysunek i inne obiekty muzealne.
+- [Fototeka](https://fototeka.fn.org.pl) - fotosy, zdjęcia z planów i portrety twórców ze zbiorów Filmoteki Narodowej - Instytutu Audiowizualnego, ponad 300 tys. zdjęć do 3200 polskich filmów.
 - [Ninateka](https://ninateka.pl) - internetowe archiwum audiowizualne z polskimi filmami, dokumentami, spektaklami i nagraniami muzycznymi.
+- [Zbiory cyfrowe Muzeum Narodowego w Krakowie](https://zbiory.mnk.pl) - zbiory cyfrowe Muzeum Narodowego w Krakowie: katalog obiektów, arcydzieła, galerie tematyczne, eseje i biblioteka.
 
 ## Dla integratorów
 
