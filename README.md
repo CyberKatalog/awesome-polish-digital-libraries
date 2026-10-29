@@ -99,3 +99,7 @@ Know a service that is missing? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 The content of this list is available under [CC0 1.0](LICENSE).
+
+---
+
+Maintained by [CyberKatalog](https://cyberkatalog.pl/), the directory of Polish cybersecurity companies.
