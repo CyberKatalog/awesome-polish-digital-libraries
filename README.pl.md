@@ -99,3 +99,7 @@ Znasz serwis, którego tu brakuje? Zajrzyj do [CONTRIBUTING.md](CONTRIBUTING.md)
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Zawartość listy jest dostępna na licencji [CC0 1.0](LICENSE).
+
+---
+
+Listę prowadzi [CyberKatalog](https://cyberkatalog.pl/), katalog polskich firm cyberbezpieczeństwa.
